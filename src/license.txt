@@ -1,0 +1,12 @@
+"charge.wav", "crash.wav", and "explosion.wav" can be found for free and unrestricted use under the 
+CC0 1.0 license at https://opengameart.org/content/sfx-the-ultimate-2017-16-bit-mini-pack. 
+Please note that their original file names have been changed to be more succinct.
+
+The CC0 1.0 License can be found here:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+
+"Waiting Music" by Lesfm (background.mp3) is available royalty-free at https://pixabay.com/music/search/genre/elevator%20music/.
+
+The Pixabay license can be found here:
+https://pixabay.com/service/license-summary/
